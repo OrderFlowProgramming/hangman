@@ -23,4 +23,4 @@ npm run dev
 
 ## Live Demo
 
-[Bekijk de demo](https://orderflowprogramming.github.io/Galgje/)
+[Bekijk de demo](https://orderflowprogramming.github.io/hangman/)
